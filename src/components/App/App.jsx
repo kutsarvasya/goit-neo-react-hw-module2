@@ -3,7 +3,7 @@ import "./App.css";
 import Options from "../Options/Options";
 import Feedback from "../Feedback/Feedback";
 import Notification from "../Notification/Notification";
-import Description from "../description/description";
+import Description from "../Description/Descriptoin";
 
 const initialValue = () => {
   const savedValue = localStorage.getItem("feedback");
